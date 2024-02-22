@@ -1,0 +1,9 @@
+.sideby {
+    display: inline-block;
+    background-color: lightgray;
+    width: 125px;
+    height: 100px;
+    padding: 10px;
+    border: 2px solid black;
+    margin-inline-start: 10px;
+}
